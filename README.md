@@ -1,2 +1,3 @@
 # Auto-Negotiation
-css的自适应方法list
+rem的适配操作
+
